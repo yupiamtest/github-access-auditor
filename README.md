@@ -27,7 +27,7 @@ This project automates the access review process by integrating with the GitHub 
 - curl
 - jq
 - GitHub Organization or Repository access
-- SMTP server or mail utility (for email notifications)
+- SMTP server (for email notifications)
 
 ## How to Use
 
